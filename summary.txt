@@ -1,0 +1,98 @@
+VINIT SALUNKE
+
+Email me: vinit.salunke@outlook.com					LinkedIn: www.linkedin.com/in/vinit-salunke
+Call me: +91 8956870598							Location: Pune, MH, India 411057
+
+
+PROFESSIONAL EXPERIENCE
+
+TATA Consultancy Services – Technical Delivery Manager: 
+Redmond WA (USA) and Pune MH (India)			Jul 2018 – Present
+
+•	Saved 30% of team efforts by onboarding ServiceNow tool.
+o	Collaborated with diverse cross functional teams to gather ServiceNow requirements, developed a comprehensive roadmap, and requirement documents for the successful implementation of ServiceNow.
+o	Tracked project progress, KPIs and SLAs to meet quality standards and adhere to schedules.
+o	Identified improvement opportunities and process gaps in data ownership, lineage, and quality of solutions within the ServiceNow tool for critical information and errors.
+o	Orchestrated Test and UAT acceptance phases by developing detailed test cases, ensuring a smooth transition to production with zero issues during UAT and post-implementation coordination.
+o	Drove the creation of artifacts and ensure completion of projects across the development lifecycle, partnered with business stakeholders to ensure successful change management and adoptions.
+o	Conducted Partner level presentation (PBR), Monthly Business Review (MBR) presentation with leadership team.
+•	Centralized Invoicing Process- 
+o	Rearchitected manual invoicing process, transitioning it to an automated system through the development of a centralized invoicing tool. This tool facilitated project invoicing at the account level.
+o	Collaborated with cross-project teams to collect requirements and gain insight into the process.
+o	Developed a roadmap, requirement document, functional specification document.
+o	Managed stakeholders, cross-functional teams communication LT (Leadership Team) reporting, managed risk throughout project life cycle.
+o	Supervised a team of four in the development of the solution and successfully implemented it across the account.
+•	Conceptualized and executed an "AI for everyone" awareness program at the account level.
+o	Reached 94% of the set target across 260+ associates.
+o	Established a specialized batch comprising 7 associates equipped with advanced AI+ML skill sets. 
+o	Prioritized top 10 out of 19 innovative and transformational ideas across the account.
+
+TATA Consultancy Services – Project Manager: Redmond WA (USA)			Nov 2015 – Jun 2018
+
+•	Contributed to 40% increase in profit margin by spearheading the offshoring initiatives.
+o	Established onsite-offshore model, making sure end to end transfer of knowledge.
+
+•	Managed Dogfood program for Team Foundation Server (TFS 2019) RC Escrow, RTW Escrow and Final build
+o	Collaborated with the 9 different Product Group which actively participated in Dogfooding process for new TFS 2019 release schedules. 
+o	Provided valuable feedback, filed bugs, addressed infrastructure-related issues, and led root cause analysis efforts.
+•	Managed Azure Migrations and Infrastructure Operations
+o	Led and managed on-premises to Azure server migrations, OS and SQL upgrades.	
+o	Performed a detailed data analysis by analyzing Kusto cluster data with Kusto queries.
+o	Ran Extract, Transform and Load (ETL) for data transfer.
+o	Built reporting on the data warehouse post migrations.
+o	Leveraged extensive experience to serve as a key technical expert within the team, delivering comprehensive training sessions on SQL, TFS, and other domain applications to enhance the team's technical capabilities.
+
+
+
+
+
+TATA Consultancy Services - Problem Management Lead: Pune MH (India)		Jan 2014 – Nov 2015
+
+•	Reduced volume of user requests by 14%
+o	Spearheaded a comprehensive analysis that led to the development of a customer-facing portal. 
+o	Post-implementation, the portal successfully reduced user requests by 14% and significantly enhanced the overall customer experience.
+
+TATA Consultancy Services - Project Lead: Redmond, WA (USA)			Oct 2010 – Jan 2014
+
+•	Technically led and managed a team of 12 operation engineers and 2 automation developers.
+o	Managed IT Operations project end to end along with close client communication and stakeholder management.
+o	Managed delivery with SLAs maintained all KPIs.
+o	Supported and administered VSTF (Visual Studio Team Foundation Server) application along with 1000+ set of on-premises Windows and SQL Server environment having terabytes of database size.
+o	Handled large scale SQL Data migration and Azure TFS services migrations.
+o	Implemented and maintained SQL Always On, Transactional Replication, Mirroring for SQL Servers.
+o	Worked in a live production environment, handled Tier 3 level operational issues.
+
+TATA Consultancy Services - Service Engineer: Pune, MH (India)			Aug 2008 – Oct 2010
+o	Handled Tier 2 operations for Microsoft legacy application called Windows Testing Tool (WTT).
+o	Received appreciation from customers for finding root cause of repetitive issue which reduced 0.5% of overall ticket count.
+o	Responsible for administering and maintaining SQL Server DBs.
+
+Quinnox Consultancy Service Pvt. Ltd - Senior Consultant: Pune, MH (India)		Oct 2007 – Jul 2008
+o	Responsible for analyzing requirements, generating query logs, preparing unit test cases, coding, unit testing.
+o	Handled application roll out plan and assisted in application go live.
+o	Additional Responsibilities:  SCM (Configuration Manager) Maintaining VSS Maintaining DOM DOC
+
+Wisdom Technologies - Software Engineer: Pune, MH (India)				Nov 2003 – Sep 2007
+o	Designed a complete architecture of small startup corporate bank accounting module.
+o	Worked on 5 major projects from different domains, participated in architecture, designing, coding and go live of product. 
+o	Responsible for analyzing requirements, generating query logs, preparing unit test cases, coding, unit testing.
+
+TRAINING AND CERTIFICATIONS
+
+o	Microsoft Power Platform App Maker Certification
+o	PMP and Agile aspects – Udemy 48 Hrs. Andrew Ramdayal Course
+o	Strategic Thinking
+o	ServiceNow Basic Modules
+o	Banking Fundamentals
+
+EDUCATION
+
+UNIVERSITY OF PUNE | Bachelor of Computer Science (BCS) | Major in Computer Science | Pune MH (India) | May 1997 – April 2000
+o	First project to get selected by Toyota dealer (Pune, India) for full-fledged commercial development from FY 2000 batch. 
+o	The project was designed and developed to maintain phone/business directory (digital Yellow Pages) application in VB 6.0, SQL Server 6.0.
+
+SKILLS AND INTERESTS
+
+Interests: Udemy, Stock Market, Soccer, Table Tennis
+Languages: English; Fluent in Marathi and Hindi 
+Technical: AI Prompt Engineering, Azure Services, SQL DBA, T-SQL, Kusto, Power Bi, Power Apps, Excel
